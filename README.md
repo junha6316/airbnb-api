@@ -18,3 +18,5 @@ REST & GraphQL API of the Airbnb Clone using Django REST Framework and Graphene 
 - [ ] Search Room
 
 
+
+<!-- codex test: triage rule works -->
